@@ -1,0 +1,6 @@
+framework module kevintest {
+  umbrella header "kevintest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - kevintest (0.1.0)
+
+DEPENDENCIES:
+  - kevintest (from `../`)
+
+EXTERNAL SOURCES:
+  kevintest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kevintest: 6d467ee0bedf5111516ac73309d8c2864b86f21d
+
+PODFILE CHECKSUM: 989b29c68bc2aab2f93b36345721298a0e642697
+
+COCOAPODS: 1.6.1
